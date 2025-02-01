@@ -1,4 +1,4 @@
 Name: James Bradley G. Caligayahan
 Section: BSCS-1B
-Program:BS Computer Science
-Address:
+Program: BS Computer Science
+Address: 086 Luico St. Brgy. Maligaya Dolores, Quezon
